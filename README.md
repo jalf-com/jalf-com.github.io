@@ -1,2 +1,2 @@
 # jalf-com.github.io
-JALF
+[JALF](https://jalf-com.github.io)
